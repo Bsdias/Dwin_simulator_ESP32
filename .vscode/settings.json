@@ -1,0 +1,33 @@
+{
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "files.associations": {
+      "freertos.h": "c",
+      "task.h": "c",
+      "stdio.h": "c",
+      "ets_sys.h": "c",
+      "nvs_flash.h": "c",
+      "ds18b20.h": "c",
+      "algorithm": "c",
+      "esp_vfs_fat.h": "c",
+      "random": "c",
+      "*.tcc": "c",
+      "*.ipp": "c",
+      "chrono": "c",
+      "limits": "c",
+      "optional": "c",
+      "istream": "c",
+      "ostream": "c",
+      "ratio": "c",
+      "system_error": "c",
+      "array": "c",
+      "functional": "c",
+      "regex": "c",
+      "tuple": "c",
+      "type_traits": "c",
+      "utility": "c"
+    },
+    "idf.flashType": "UART",
+    "idf.port": "/dev/ttyUSB0",
+    "idf.adapterTargetName": "esp32"
+  }
+  
